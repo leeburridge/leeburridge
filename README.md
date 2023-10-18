@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leeburridge
 - 👀 I’m interested in dev and gaming
-- 🌱 I’m currently have Covid :(
+- 🌱 I currently have Covid :(
 - 📫 How to reach me leeburridge76@gmail.com
 
 <!---
