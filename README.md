@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leeburridge
-- 👀 I’m interested in dev and gaming
-- 🌱 I currently have Covid :(
+- 👀 I’m interested in drone flying
+- 🌱 I currently am thinking about github
 - 📫 How to reach me leeburridge76@gmail.com
 
 <!---
